@@ -1,13 +1,9 @@
 <a name="readme-top"></a>
 <div align="center">
 
-<img src="assets/banner.png" alt="Vidhitam Chakole - Developer" width="100%"/>
+<img src="assets/header.gif" alt="Vidhitam Chakole - Full-Stack Developer" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B9D&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Vidhitam+%E2%9C%A6;Full-Stack+Developer+%7C+Learning+by+Building;Currently+building+Agentic+AI+%E2%9A%A1;B.Tech+CSE+%40+Symbiosis+%7C+Nagpur+%E2%97%88" alt="Typing SVG" /></a>
-
-<img src="assets/desk.gif" alt="coding at my desk" width="560"/>
-
-<img src="https://komarev.com/ghpvc/?username=vidhitam-chakole&label=Profile+views&color=ff6b9d&style=for-the-badge" alt="views"/>
+<br/>
 
 [Projects](#projects) · [Tech Stack](#tech-stack) · [Stats](#github-stats) · [Contact](#lets-connect)
 
@@ -56,13 +52,13 @@ I'm Vidhitam, and I've never quite fit into just one box. I create, I build, I p
 <a name="projects"></a>
 ## ⬡ Projects
 
-> Screenshots go in `assets/projects/`. Replace the placeholder images with your own.
-
 <!-- ============ PROJECT 1 ============ -->
 ### 01 ◈ SkillGap AI
 
 <p align="center">
-  <img src="assets/projects/skillgap.png" alt="SkillGap AI screenshot" width="90%"/>
+  <a href="https://skillplusai.vercel.app">
+    <img src="assets/projects/skillgap.png" alt="SkillGap AI screenshot" width="90%"/>
+  </a>
 </p>
 
 SkillGap AI reads your LinkedIn and GitHub signals and turns them into practical learning priorities and career next steps. It tells you where you stand in the industry and what to learn next.
@@ -77,7 +73,6 @@ SkillGap AI reads your LinkedIn and GitHub signals and turns them into practical
 <img src="https://skillicons.dev/icons?i=react,vite,python,fastapi&theme=light"/>
 
 [![Repo](https://img.shields.io/badge/GitHub-Repo-2D2A32?style=for-the-badge&logo=github)](https://github.com/Vidhitam-chakole/Skill-Gap-AI)
-[![Live](https://img.shields.io/badge/Live_Demo-Vercel-FF6B9D?style=for-the-badge&logo=vercel&logoColor=white)](https://skillplusai.vercel.app)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -88,7 +83,9 @@ SkillGap AI reads your LinkedIn and GitHub signals and turns them into practical
 ### 03 ◈ CapstoneTrack (IEEE-Nexus)
 
 <p align="center">
-  <img src="assets/projects/capstonetrack.png" alt="CapstoneTrack screenshot" width="90%"/>
+  <a href="https://capstonetrack.vercel.app">
+    <img src="assets/projects/capstonetrack.png" alt="CapstoneTrack screenshot" width="90%"/>
+  </a>
 </p>
 
 A modern Capstone Project and Internship Management ERP that replaces messy WhatsApp groups and manual spreadsheets with deterministic guide allocation and conflict-free review scheduling.
@@ -103,7 +100,6 @@ A modern Capstone Project and Internship Management ERP that replaces messy What
 <img src="https://skillicons.dev/icons?i=react,supabase,vercel&theme=light"/>
 
 [![Repo](https://img.shields.io/badge/GitHub-Repo-2D2A32?style=for-the-badge&logo=github)](https://github.com/Vidhitam-chakole/IEEE-Nexus)
-[![Live](https://img.shields.io/badge/Live_Demo-Vercel-FFD23F?style=for-the-badge&logo=vercel&logoColor=2D2A32)](https://capstonetrack.vercel.app)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -113,7 +109,9 @@ A modern Capstone Project and Internship Management ERP that replaces messy What
 ### 04 ◈ Zanzavat Sanstha Website
 
 <p align="center">
-  <img src="assets/projects/zanzavat.png" alt="Zanzavat Sanstha screenshot" width="90%"/>
+  <a href="https://www.zanzavatsanstha.in/">
+    <img src="assets/projects/zanzavat.png" alt="Zanzavat Sanstha screenshot" width="90%"/>
+  </a>
 </p>
 
 The official web platform for Zanzavat Bahuudeshiya Shaikshanik Sanstha, a registered NGO established in 1995 and working on child welfare, health services and rural development in Nagpur.
@@ -128,7 +126,6 @@ The official web platform for Zanzavat Bahuudeshiya Shaikshanik Sanstha, a regis
 <img src="https://skillicons.dev/icons?i=html,css,js,python,flask,supabase,vercel&theme=light"/>
 
 [![Repo](https://img.shields.io/badge/GitHub-Repo-2D2A32?style=for-the-badge&logo=github)](https://github.com/Vidhitam-chakole/Zanzavat-Sanstha)
-[![Live](https://img.shields.io/badge/Live_Demo-Vercel-6BCB77?style=for-the-badge&logo=vercel&logoColor=white)](https://www.zanzavatsanstha.in/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
