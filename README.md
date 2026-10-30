@@ -60,8 +60,7 @@ I'm Vidhitam, and I've never quite fit into just one box. I create, I build, I p
     <img src="assets/projects/skillgap.png" alt="SkillGap AI screenshot" width="90%"/>
   </a>
   <br/>
-  <a href="https://skillplusai.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-Vercel-FF6B9D?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
-  <a href="https://github.com/Vidhitam-chakole/Skill-Gap-AI"><img src="https://img.shields.io/badge/GitHub-Repo-2D2A32?style=for-the-badge&logo=github" alt="GitHub Repo"/></a>
+  <a href="https://skillplusai.vercel.app">https://skillplusai.vercel.app</a>
 </p>
 
 SkillGap AI reads your LinkedIn and GitHub signals and turns them into practical learning priorities and career next steps. It tells you where you stand in the industry and what to learn next.
@@ -75,6 +74,8 @@ SkillGap AI reads your LinkedIn and GitHub signals and turns them into practical
 **Built with:**
 <img src="https://skillicons.dev/icons?i=react,vite,python,fastapi&theme=light"/>
 
+[![Repo](https://img.shields.io/badge/GitHub-Repo-2D2A32?style=for-the-badge&logo=github)](https://github.com/Vidhitam-chakole/Skill-Gap-AI)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
@@ -87,8 +88,7 @@ SkillGap AI reads your LinkedIn and GitHub signals and turns them into practical
     <img src="assets/projects/capstonetrack.png" alt="CapstoneTrack screenshot" width="90%"/>
   </a>
   <br/>
-  <a href="https://capstonetrack.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-Vercel-FFD23F?style=for-the-badge&logo=vercel&logoColor=2D2A32" alt="Live Demo"/></a>
-  <a href="https://github.com/Vidhitam-chakole/IEEE-Nexus"><img src="https://img.shields.io/badge/GitHub-Repo-2D2A32?style=for-the-badge&logo=github" alt="GitHub Repo"/></a>
+  <a href="https://capstonetrack.vercel.app">https://capstonetrack.vercel.app</a>
 </p>
 
 A modern Capstone Project and Internship Management ERP that replaces messy WhatsApp groups and manual spreadsheets with deterministic guide allocation and conflict-free review scheduling.
@@ -102,6 +102,8 @@ A modern Capstone Project and Internship Management ERP that replaces messy What
 **Built with:**
 <img src="https://skillicons.dev/icons?i=react,supabase,vercel&theme=light"/>
 
+[![Repo](https://img.shields.io/badge/GitHub-Repo-2D2A32?style=for-the-badge&logo=github)](https://github.com/Vidhitam-chakole/IEEE-Nexus)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
@@ -114,8 +116,7 @@ A modern Capstone Project and Internship Management ERP that replaces messy What
     <img src="assets/projects/zanzavat.png" alt="Zanzavat Sanstha screenshot" width="90%"/>
   </a>
   <br/>
-  <a href="https://www.zanzavatsanstha.in/"><img src="https://img.shields.io/badge/Live_Demo-Website-6BCB77?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"/></a>
-  <a href="https://github.com/Vidhitam-chakole/Zanzavat-Sanstha"><img src="https://img.shields.io/badge/GitHub-Repo-2D2A32?style=for-the-badge&logo=github" alt="GitHub Repo"/></a>
+  <a href="https://www.zanzavatsanstha.in/">https://www.zanzavatsanstha.in/</a>
 </p>
 
 The official web platform for Zanzavat Bahuudeshiya Shaikshanik Sanstha, a registered NGO established in 1995 and working on child welfare, health services and rural development in Nagpur.
@@ -128,6 +129,8 @@ The official web platform for Zanzavat Bahuudeshiya Shaikshanik Sanstha, a regis
 
 **Built with:**
 <img src="https://skillicons.dev/icons?i=html,css,js,python,flask,supabase,vercel&theme=light"/>
+
+[![Repo](https://img.shields.io/badge/GitHub-Repo-2D2A32?style=for-the-badge&logo=github)](https://github.com/Vidhitam-chakole/Zanzavat-Sanstha)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
