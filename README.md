@@ -161,7 +161,7 @@ The official web platform for Zanzavat Bahuudeshiya Shaikshanik Sanstha, a regis
   <a href="https://www.linkedin.com/in/vidhitamchakole"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:chakolevidhitam@gmail.com"><img src="https://img.shields.io/badge/Email-FF6B9D?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <!-- Add later: Instagram, X, Portfolio -->
-  <a href="https://YOUR-PORTFOLIO-LINK"><img src="https://img.shields.io/badge/Portfolio-FFD23F?style=for-the-badge&logo=vercel&logoColor=2D2A32"/></a>
+  <a href="https://vidhitamchakoleportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FFD23F?style=for-the-badge&logo=vercel&logoColor=2D2A32"/></a>
 </p>
 
 <div align="center">
